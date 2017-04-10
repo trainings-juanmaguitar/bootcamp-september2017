@@ -1,0 +1,1189 @@
+@import "__config";
+@import "_atomic-margins-padding";
+
+/* VARIABLES */
+
+$color-html5: #f16529;
+$color-css3: #138dce;
+
+$color-js: #feda3e;
+
+$color-git: #9cdaf1;
+$color-jquery: #0769AD;
+$color-workflow: #F37D0B;
+$color-es2015: #323330;
+$color-architecture: #8266B2;
+
+$color-es2015-text: #F5DA55;
+$color-advanced-js: #FFF;
+
+$color-balsamiq: #CB0000;
+$color-bootstrap: #5d4384;
+$color-d3: #f99d3e;
+$color-angular: #e42839;
+$color-projects: #323330;
+
+$color-node: #8cc84b;
+$color-express: #30a2ff;
+$color-mongo: #449945;
+
+$color-sass: #c6538c;
+
+.mongo.restaurants.smallcode > div {
+	top:-40px !important;
+	pre code {
+		font-size: 16px;
+	}
+}
+
+.mongo.update img, .mongo.remove img {
+    width: 920px;
+    margin-left: -60px;
+    margin-top: 70px;
+}
+
+.mongo.find img {
+    width: 920px;
+    margin-left: -20px;
+    margin-top: 70px;
+}
+
+.mongo.insert img {
+    width: 830px;
+    margin-top: 40px;
+}
+
+.mongo.collection img {
+    width: 680px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.mongo.document img {
+    width: 680px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.mongo.concepts img {
+    width: 560px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.mongo.stack1 img {
+    width: 840px;
+    margin-top: 40px;
+    margin-left: -40px;
+}
+
+.mongo.stack2 img {
+    width: 650px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.mongo.mysql img {
+    width: 600px;
+    margin-left: 110px;
+}
+#scrum-img {
+	div { padding: 0; margin: 0; }
+	img {
+		width: 850px;
+		position: absolute;
+    left: 50px;
+  }
+}
+
+.slide.list-details .details{
+	font-size:18px;
+	line-height: 30px;
+	margin-left:30px;
+}
+
+.slide.exercise {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat top 0 right 25px;
+		background-size: 20%;
+		background-color: #272822;
+		color: #FFF;
+		&.todo {
+			background-color: #ea4335;
+		}
+		* { color: #FFF;}
+}
+
+img[alt="flexbox"] {
+	width: 100%;
+	top: 60px;
+	position: relative;
+}
+
+img[alt^="Project:"] {
+	width: 350px;
+	display: block;
+	margin: 15px 0;
+}
+
+.projects.details {
+	$color-tags: #5bc0de;
+	& > div {
+		top: -20px;
+	}
+	h2 {
+		margin-bottom:0;
+		font-weight: bolder;
+	}
+	.tags {
+		margin: 10px 40px 30px;
+		float:left;
+		span {
+			cursor:pointer;
+			background-color : $color-tags;
+			border: 1px solid $color-tags;
+			margin: 2px;
+			padding: 0 5px;
+			font-size: 9px;
+
+			color: #FFF;
+			font-weight: bold;
+			border-radius: 5px;
+			float:left;
+			display:block;
+		}
+		span:hover {
+			background-color:#000;
+		}
+	}
+
+	p {
+		display: block;
+		clear:both;
+		margin: 0;
+		&.link {
+			font-weight: bold;
+		}
+		&.repo {
+			margin: 0 8px;
+			font-size: 20px;
+			font-style: italic;
+		}
+	}
+	.gallery {
+		clear: both;
+		margin-top:20px;
+		img {
+			width: 100px;
+			transition: all 0.2s ease-in;
+			float: left;
+			margin: 10px;
+			-webkit-box-shadow: 10px 10px 41px -3px rgba(0,0,0,0.75);
+			-moz-box-shadow: 10px 10px 41px -3px rgba(0,0,0,0.75);
+			box-shadow: 10px 10px 41px -3px rgba(0,0,0,0.75);
+		}
+		img:hover {
+			transform: scale(2);
+		}
+	}
+}
+
+
+.clear-ideas-gruntfile.smallcode {
+	ul ul li code { font-size:16px; }
+	pre {
+		margin-top:20px;
+		margin-left:100px;
+		code:before { margin:0;}
+	}
+}
+
+#contents {
+	h2 { margin-bottom:45px;}
+	.icon-keyboard:before,  .icon-laptop:before {
+		margin-left: 52px;
+		margin-right: -15px;
+	}
+}
+
+.slide h2 {
+	font-size:40px;
+	margin-bottom:20px;
+}
+
+[class^="icon-"] {
+	font-family: "Open Sans",sans-serif;
+	&:before {
+		font-family: FontAwesome;
+	}
+}
+
+.not-alone {
+	ul {
+		ul {
+			margin-top:10px;
+			margin-left:30px;
+			li {
+				position:relative;
+				margin-left:-60px;
+				margin-bottom:10px;
+			}
+		}
+	}
+}
+
+.devicons {
+	&.devicons-java {
+		top:6px;
+	}
+	&.devicons-php {
+		top:10px;
+	}
+	&.devicons-python {
+		top:10px;
+	}
+	width: 30px;
+	height:30px;
+	font-size:40px;
+	display:block-inline;
+	margin-left:-45px;
+	padding-left:10px;
+	position:relative;
+	&:before {
+		margin-right:20px;
+	}
+}
+
+a[class|=icon] {
+	font-size: 1.2em;
+	background: none;
+	text-decoration: none;
+	width:auto !important;
+	&:before { margin-right:10px; }
+}
+
+.small {
+	ol,ul {
+		font-size:.7em;
+	}
+}
+
+.no-bullet-list.slide {
+	ul {
+		margin-bottom:50px;
+		& > li:before {
+			content:'';
+		}
+	}
+	&.resources {
+		ul {
+			margin-left:-50px;
+		}
+		a { margin-left:-10px; }
+		span { margin-left:60px; }
+
+	}
+}
+
+.section {
+	h1 {
+		margin-top:100px;
+		font-size:4em;
+		text-align: center;
+
+	}
+}
+
+h6 {
+	color: #ccc;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+
+@font-face {
+	font-family: MOHAVE;
+	src: url("Mohave.otf") format("opentype");
+}
+
+.coverSession, #MainCover {
+	& {
+		background: url("../img/skylab-coders-logo.png") no-repeat scroll right 310px top 390px #f0f0f0;
+		background-size: 30%;
+		//background: url("../img/vueling-logo.png") no-repeat scroll right 220px top 340px #FFD245;
+
+	}
+	& > div {
+		top: 0;
+	}
+	/*img {
+		position: absolute;
+		top: 150px;
+		left: 100px;
+	}
+	*/
+	h2, h3, h4, ul li {
+		color: #453015;
+		font-family: "MOHAVE",Helvetica,Arial,sans-serif;
+	}
+	h2 {
+		position: absolute;
+		top: 180px;
+		left: 410px;
+		font-size: 2.7em;
+		font-weight: bolder;
+	}
+	.logos {
+		position: absolute;
+		top: 0;
+		border: 1px solid #CCC;
+		background: #FFF;
+		height: 260px;
+		padding: 20px;
+		left: 0;
+		height: 100%;
+		width: 31%;
+
+		& > .box {
+			position: absolute;
+			top:210px;
+			left:55px;
+		}
+		img {
+			margin:10px;
+		}
+	}
+	h3,h4 {
+		position: absolute;
+		top: 320px;
+		left: 410px;
+		font-size: 1.7em;
+		line-height: 39px;
+		text-align: center;
+		strong {
+			font-size:1.5em;
+		}
+	}
+
+}
+
+#MainCover {
+	ul {
+		list-style-type: none;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 26%;
+		line-height: 50px;
+		text-align: center;
+		background: white;
+		height: 100%;
+		padding: 50px;
+		padding-top: 50px;
+		border-right: 1px solid #bbb;
+		li {
+			margin-bottom: 10px;
+			margin-bottom: 10px;
+	    font-size: 1.5em;
+	    line-height: 40px;
+		}
+	}
+}
+.list-contents {
+	& > div {
+		width:940px;
+	}
+	ul {
+		display:flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		height:375px;
+		width:70%;
+		li {
+			width:49%;
+			font-size:35px !important;
+		}
+	}
+
+}
+
+.slide.sass {
+	border-left: 10px solid $color-sass;
+}
+
+.slide.mongo {
+	border-left: 10px solid $color-mongo;
+}
+
+.slide.express {
+	border-left: 10px solid $color-express;
+}
+
+.slide.node {
+	border-left: 10px solid $color-node;
+}
+
+.slide.bootstrap {
+	border-left: 10px solid $color-bootstrap;
+}
+
+.slide.d3 {
+	border-left: 10px solid $color-d3;
+}
+
+.slide.css3 {
+	border-left: 10px solid $color-css3;
+}
+
+.slide.html5 {
+	border-left: 10px solid $color-html5;
+}
+
+.slide.ux {
+	border-left: 10px solid $color-balsamiq;
+	img[alt="lean ux"] {
+			 width: 690px;
+		left: 190px;
+		position: absolute;
+		top: 70px;
+	}
+	img[alt="mvp"] {
+			 width: 570px;
+		left: 230px;
+		position: absolute;
+		top: 80px;
+	}
+}
+
+
+.slide.angular {
+	border-left: 10px solid $color-angular;
+}
+
+.slide.html5.kata {
+	p, table, ul {
+		font-size:18px;
+		padding:0;
+		display:inline-block;
+	}
+	p { margin:0 0 20px; }
+
+	ul li {
+		width: 45%; padding:8px 10px; float:left; margin:0; line-height:17px; clear:right;
+	}
+
+}
+
+.slide.git {
+	border-left: 10px solid $color-git;
+	&.theory {
+		border: 10px solid $color-git;
+	}
+	.block-icons {
+		display:inline-block;
+		margin-left:100px;
+	}
+	&.install {
+		[class^="icon-"] {
+			margin: 0 15px !important;
+		}
+		[class="icon-tasks"] { margin-left: 60px !important; }
+	}
+
+	&.image.workflow img {
+		width: 700px;
+		margin: 20px 0;
+	}
+	&.image.remote img {
+		width: 540px;
+		margin: 0 100px;
+	}
+
+	&.setup {
+		[class^="icon-"] { margin:0 10px 0 0 !important; }
+	}
+
+}
+
+.general {
+	ul {
+		margin-left: -60px;
+		li {
+			text-indent: 0;
+			font-size: 25px;
+			line-height: 1.8em;
+			&:before { content: none; }
+			span { padding:0 0 0 10px; }
+			[class^="icon-"]:before { margin-right: 20px; }
+		}
+	}
+}
+
+.slide.projects {
+	border-left: 10px solid $color-projects;
+}
+
+.slide.javascript {
+	border-left: 10px solid $color-js;
+	&.theory {
+		border: 10px solid $color-js;
+	}
+}
+
+.slide.jquery {
+	border-left: 10px solid $color-jquery;
+}
+
+/*
+
+.slide.workflow {
+	border-left: 10px solid $color-workflow;
+	a[class^="icon-"] {
+		margin-left: 2em;
+	}
+	&.exercise {
+		span.devicons {
+			font-size: 35px;
+			&:before {
+				top: 9px;
+				position: relative;
+				right: -24px;
+			}
+		}
+	}
+}
+
+*/
+
+
+.slide.es2015 {
+	border-left: 10px solid $color-es2015;
+	&.history {
+		ul li {
+		line-height: 33px;
+		font-size: 20px; }
+	}
+	&.resources {
+		ul li {
+			line-height: 35px;
+			font-size: 22px;
+			margin: 10px 0;
+		}
+		pre { margin-top:10px;}
+	}
+
+}
+
+.slide.architecture {
+	border-left: 10px solid $color-architecture;
+}
+
+
+.coverSession {
+
+		&.sass {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-sass;
+		background-size: 30%;
+
+		img[alt="sass logo"] {
+			width: 240px;
+    	left: -5px;
+	    top: 0;
+	    position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #FFF;
+		}
+		h3 {
+			top: 410px;
+    left: 53px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+
+
+	&.es2015 {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-es2015;
+		background-size: 30%;
+
+		h2 { color: $color-es2015-text; }
+		img[alt$="es2015 Logo"] {
+			width: 210px;
+			margin:-20px 48px;
+			float:left;
+		}
+		.box { top:220px; left:10px; }
+		h3 { top:400px;}
+		h4 { top:460px;}
+		h3 {
+			top: 460px;
+			left: 50px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+
+		&.mongo {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-mongo;
+		background-size: 30%;
+
+		img[alt="Mongo Logo"] {
+			    width: 210px;
+    left: -20px;
+    top: 0px;
+	    position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #FFF;
+		}
+		h3 {
+			top: 430px;
+			left: 50px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+		&.express {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-express;
+		background-size: 30%;
+
+		img[alt="Express Logo"] {
+			width: 350px;
+			left: -80px;
+			top: 50px;
+			position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #FFF;
+		}
+		h3 {
+			top: 360px;
+			left: 50px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+		&.node {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-node;
+		background-size: 30%;
+
+		img[alt="Node Logo"] {
+			width: 160px;
+    	left: 10px;
+	    top: 0;
+	    position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #FFF;
+		}
+		h3 {
+			top: 410px;
+    left: 53px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+
+
+	&.projects {
+
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-projects;
+		background-size: 30%;
+
+		img[alt="Projects Logo"] {
+			width: 230px;
+			left: -20px;
+			top: -30px;
+			position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #FFF;
+		}
+		h3 {
+			top: 420px;
+			left: 70px;
+			width: 240px;
+			text-align: center;
+			line-height: 51px;
+		}
+	}
+
+
+	&.angular {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-angular;
+		background-size: 30%;
+
+		img[alt="Angular Logo"] {
+					width: 280px;
+		left: -40px;
+		top: -55px;
+		position: absolute;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h3 {
+					top: 430px;
+		left: 90px;
+		}
+	}
+
+
+	&.jquery {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-jquery;
+		background-size: 30%;
+
+		img[alt="jQuery Logo"] {
+			width: 200px;
+			left: 130px;
+			top: -25px;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h3 {
+			top: 380px;
+			left: 100px;
+		}
+	}
+
+	&.d3 {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-d3;
+		background-size: 30%;
+
+		img[alt="D3 Logo"] {
+			width: 200px;
+			left: 130px;
+			top: -25px;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h3 {
+			top: 430px;
+			left: 160px;
+		}
+	}
+
+
+	&.bootstrap {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-bootstrap;
+		background-size: 30%;
+
+		img[alt="bootstrap logo"] {
+			width: 200px;
+			left: 130px;
+			top: -25px;
+		}
+		.box {
+			top: 180px;
+			left: 70px;
+		}
+		h2 {
+			color: #eee;
+		}
+		h3 {
+			top: 430px;
+			left: 70px;
+		}
+	}
+
+
+	&.ux {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-balsamiq;
+		background-size: 30%;
+
+		img[alt="ux logo"], img[alt="mockups logo"] {
+			width: 130px;
+			position: absolute;
+		}
+		img[alt="mockups logo"] {
+			left: 130px;
+			top: -25px;
+		}
+
+		h2 {
+			color: #eee;
+		}
+
+		.box {
+			top: 250px;
+			left: 50px;
+		}
+		h3 {
+			top: 390px;
+			left: 70px;
+		}
+	}
+
+	&.css3 {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-css3;
+		background-size: 30%;
+
+		img[alt="CSS3 Logo"] {
+			width: 220px;
+		}
+		.box {
+			top: 150px;
+			left: 50px;
+		}
+		h3 {
+			top:440px;
+			left:105px;
+		}
+	}
+
+	&.html5 {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-html5;
+		background-size: 30%;
+
+		img[alt="HTML5 Logo"] {
+			width: 210px;
+		}
+		.box {
+			top: 160px;
+			left: 55px;
+		}
+		h3 {
+			top:440px;
+			left:105px;
+		}
+	}
+
+	&.git {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px $color-git;
+		background-size: 30%;
+
+		img[alt$="logo"] {
+			height: 100px;
+			float:left;
+		}
+		img[alt="markdown logo"] {
+			width: 110px;
+			height: inherit;
+			margin: 22px;
+		}
+		.box {
+			top:150px;
+		}
+		h3 {
+			top:440px;
+			left:75px;
+		}
+
+	}
+
+
+
+	&.javascript {
+
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-js;
+		background-size: 30%;
+
+		img[alt="Javascript Logo"] {
+			margin:-20px 48px;
+			height: 150px;
+		}
+		.box {
+			top: 225px;
+			left: 50px;
+		}
+		h3 {
+			top: 390px;
+			left: 55px;
+		}
+
+	}
+/*
+	&.jquery {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 180px top 400px $color-jquery;
+		img[alt="jQuery Logo"] {
+			margin:-20px 48px;
+			height: 150px;
+		}
+		//h2 { color: #FFF; top:250px; font-size:2.7em;}
+	}
+*/
+	&.workflow {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 180px top 400px $color-workflow;
+
+	/*   ![npm Logo](img/workflow/npm.svg)
+		![grunt Logo](img/workflow/grunt.png)
+		![bower Logo](img/workflow/bower.png)
+		![yeoman Logo](img/workflow/yeoman.png)
+	<d
+	 */
+		img[alt$="logo"] {
+			/* margin:-20px 48px; */
+			height: 100px; float:left;
+		}
+		.box {top:150px;}
+		h3 { top:420px;}
+
+	}
+
+
+
+	&.architecture {
+		background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 180px top 400px $color-architecture;
+
+		img[alt$="logo"] { margin:0; }
+		img[alt="es2015 logo"] { width: 250px; }
+		img[alt="babel logo"] { width: 185px; }
+		img[alt="webpack logo"] { width: 100px; }
+		.box {
+			top: 160px;
+			left: 30px;
+			width: 300px;
+			text-align: center;
+		}
+		h3 { top:400px;}
+		h4 { top:460px;}
+	}
+
+}
+
+
+.general {
+	&.contents {
+		ul li { font-size:23px;}
+	}
+	ol {
+		display: flex;
+		flex-direction:column;
+		flex-wrap:wrap;
+		li { display: flex; }
+	}
+}
+
+
+.what {
+	blockquote {
+		margin-top:1.2em;
+		font-size : 3em;
+	}
+}
+
+.what2 {
+	blockquote {
+		margin-top:2em;
+		font-size :2em;
+	}
+}
+
+.what3 {
+	blockquote {
+		p {
+			line-height: 1.5em;
+		}
+		margin-top:2em;
+		font-size :2em;
+	}
+}
+
+.two-columns-list {
+
+	$max-column-items: 10; /* The maximum number of items a single column can handle.  If a column has more items than the maximum defined here, some items won't display. */
+	$line-height: 1.5;
+	$list-font-size: 16px;
+
+	ol {
+		position: relative;
+		margin: 0 0 50px;
+		padding: 0;
+		font-size: $list-font-size;
+	}
+
+	ol li {
+		position: absolute;
+		margin: 0;
+		padding: 0;
+		width: 50%;
+		list-style-position: inside;
+		line-height: $line-height;
+	}
+
+	@for $i from 2 through $max-column-items{
+		ol li:nth-child( n+#{$i} ) {
+			top: $line-height * ($i - 1) + em; /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/
+		}
+	}
+
+	@for $i from 2 through $max-column-items {
+		ol li:nth-child(n+#{$i + 1}):nth-last-child(-n+#{$i}) {
+			position: static;
+			margin-left: 50%;
+		}
+	}
+}
+
+.slide  {
+	ol, ul {
+		margin-bottom: 10px;
+	}
+	p {
+		display: inline;
+	}
+	& {
+		background: url("../img/skylab-coders-logo.png") no-repeat top 25px right 25px #FFF;
+		background-size: 20%;
+	}
+
+}
+
+.showterm {
+	a {
+		margin:0;
+		float:right;
+/*    background: none; */
+	}
+}
+
+.smallcode  {
+	h2 {
+		margin-bottom:25px;
+	}
+	pre {
+		margin-left:50px;
+		code {
+			line-height: 1.3;
+			font-size: 18px;
+		}
+	}
+	&.smaller {
+		pre code {
+			font-size: 12px;
+		}
+	}
+}
+
+/* custom fonts */
+
+
+
+@charset "UTF-8";
+
+@font-face {
+	font-family: "untitled-font-1";
+	src:url("custom-juanma-font.eot");
+	src:url("custom-juanma-font.eot?#iefix") format("embedded-opentype"),
+/*		url("custom-juanma-font.woff") format("woff"), */
+		url("custom-juanma-font.ttf") format("truetype"),
+		url("custom-juanma-font.svg#untitled-font-1") format("svg");
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+
+/*
+[data-icon]:before {
+	font-family: "untitled-font-1" !important;
+	contents: attr(data-icon);
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+*/
+/*
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+	font-family: "untitled-font-1" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+*/
+.icon-pixelovers:before {
+		font-family: "untitled-font-1" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	content: "a";
+}
+/*
+.icon-t-shirt:before {
+	content: "b";
+}
+.icon-home:before {
+	content: "c";
+}
+.icon-fontawesome-webfont:before {
+	content: "d";
+}
+.icon-linkedin:before {
+	content: "e";
+}
+.icon-twitter:before {
+	content: "f";
+}
+.icon-facebook:before {
+	content: "g";
+}
+.icon-google-plus:before {
+	content: "h";
+}
+.icon-letter-mail:before {
+	content: "i";
+}
+*/
+.icon-pixelovers-1:before {
+	content: "j";
+}
+
+.fa { margin:0 5px 0 -30px }
