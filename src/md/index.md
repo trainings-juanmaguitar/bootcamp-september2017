@@ -8,7 +8,7 @@ by [JuanMa Garrido](#trainer)
 !SLIDE #MainCover no-bullet-list
  
 ## Full Stack Web Development Bootcamp
-### Winter2017
+### Abril2017
 
 - GIT & GITHUB
 - Javascript
@@ -253,7 +253,7 @@ Create a folder called `notes-bootcamp` and inside of it create a file named `RE
 
 ## Basic Tools _cheatsheets_
 
-<span class="fa fa-file-pdf-o"></span> [Git Cheat Sheet | GitHub](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+<span class="fa fa-file-pdf-o"></span> [Git Cheat Sheet | GitHub](http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf)  
 <span class="fa fa-external-link"></span> [Emmet](http://docs.emmet.io/cheat-sheet/)  
 - [Git CheatSheet | git-tower.com](http://www.git-tower.com/blog/git-cheat-sheet/)
 - [Git Every Day | kernel.org](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
