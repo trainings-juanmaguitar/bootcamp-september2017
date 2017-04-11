@@ -1,10 +1,10 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-## SkylabCoders Academy - Full Stack Web Development Bootcamp @Autumn2016
+## SkylabCoders Academy - Full Stack Web Development Bootcamp @Abril2017
 
 ## Description ##
 
-This repository contains the presentation used in the Full Stack Web Development Bootcamp done by [SkylabCoders Academy](http://www.skylabcoders.com/es/) for _9 weeks_ from 3rd October to 2nd December in 2016.
+This repository contains the presentation used in the Full Stack Web Development Bootcamp done by [SkylabCoders Academy](http://www.skylabcoders.com/es/) for _10 weeks_ from 10th April to 15nd June in 2017.
 
 ## Training Goals (Stream 1) ##
 
@@ -62,7 +62,7 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 
 ## Materials ##
 
-You can access to the presentation used in the training at the URL : https://skylabcoders.github.io/bootcamp-autumn2016
+You can access to the presentation used in the training at the URL : https://skylabcoders.github.io/bootcamp-abril2017/
 
 ## TO-DO ##
 
