@@ -838,7 +838,7 @@ Do the following [KOAN](https://github.com/mrdavidlaing/javascript-koans) to pra
 
 ## HTML5 tags _cheatsheets_
 
-<span class="fa fa-file-pdf-o"></span> [HTML5 tags](http://media.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)  
+<span class="fa fa-external-link"></span> [HTML5 tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
 <span class="fa fa-external-link"></span> [HTML semantics](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)  
 <span class="fa fa-external-link"></span> [HTML semantics checklist](http://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
 
