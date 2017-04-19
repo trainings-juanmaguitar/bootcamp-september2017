@@ -162,118 +162,118 @@
   margin-left: 3.2em !important; }
 
 /* VARIABLES */
-/* line 32, ../../src/scss/styles.scss */
+/* line 33, ../../src/scss/styles.scss */
 .mongo.restaurants.smallcode > div {
   top: -40px !important; }
-  /* line 34, ../../src/scss/styles.scss */
+  /* line 35, ../../src/scss/styles.scss */
   .mongo.restaurants.smallcode > div pre code {
     font-size: 16px; }
 
-/* line 39, ../../src/scss/styles.scss */
+/* line 40, ../../src/scss/styles.scss */
 .mongo.update img, .mongo.remove img {
   width: 920px;
   margin-left: -60px;
   margin-top: 70px; }
 
-/* line 45, ../../src/scss/styles.scss */
+/* line 46, ../../src/scss/styles.scss */
 .mongo.find img {
   width: 920px;
   margin-left: -20px;
   margin-top: 70px; }
 
-/* line 51, ../../src/scss/styles.scss */
+/* line 52, ../../src/scss/styles.scss */
 .mongo.insert img {
   width: 830px;
   margin-top: 40px; }
 
-/* line 56, ../../src/scss/styles.scss */
+/* line 57, ../../src/scss/styles.scss */
 .mongo.collection img {
   width: 680px;
   margin-left: 40px;
   margin-top: 20px; }
 
-/* line 62, ../../src/scss/styles.scss */
+/* line 63, ../../src/scss/styles.scss */
 .mongo.document img {
   width: 680px;
   margin-left: 70px;
   margin-top: 20px; }
 
-/* line 68, ../../src/scss/styles.scss */
+/* line 69, ../../src/scss/styles.scss */
 .mongo.concepts img {
   width: 560px;
   margin-left: 110px;
   margin-top: 20px; }
 
-/* line 74, ../../src/scss/styles.scss */
+/* line 75, ../../src/scss/styles.scss */
 .mongo.stack1 img {
   width: 840px;
   margin-top: 40px;
   margin-left: -40px; }
 
-/* line 80, ../../src/scss/styles.scss */
+/* line 81, ../../src/scss/styles.scss */
 .mongo.stack2 img {
   width: 650px;
   margin-left: 50px;
   margin-top: -30px; }
 
-/* line 86, ../../src/scss/styles.scss */
+/* line 87, ../../src/scss/styles.scss */
 .mongo.mysql img {
   width: 600px;
   margin-left: 110px; }
 
-/* line 91, ../../src/scss/styles.scss */
+/* line 92, ../../src/scss/styles.scss */
 #scrum-img div {
   padding: 0;
   margin: 0; }
-/* line 92, ../../src/scss/styles.scss */
+/* line 93, ../../src/scss/styles.scss */
 #scrum-img img {
   width: 850px;
   position: absolute;
   left: 50px; }
 
-/* line 99, ../../src/scss/styles.scss */
+/* line 100, ../../src/scss/styles.scss */
 .slide.list-details .details {
   font-size: 18px;
   line-height: 30px;
   margin-left: 30px; }
 
-/* line 105, ../../src/scss/styles.scss */
+/* line 106, ../../src/scss/styles.scss */
 .slide.exercise {
   background: url("../img/skylab-coders-logo-white.png") no-repeat top 0 right 25px;
   background-size: 20%;
   background-color: #272822;
   color: #FFF; }
-  /* line 110, ../../src/scss/styles.scss */
+  /* line 111, ../../src/scss/styles.scss */
   .slide.exercise.todo {
     background-color: #ea4335; }
-  /* line 113, ../../src/scss/styles.scss */
+  /* line 114, ../../src/scss/styles.scss */
   .slide.exercise * {
     color: #FFF; }
 
-/* line 116, ../../src/scss/styles.scss */
+/* line 117, ../../src/scss/styles.scss */
 img[alt="flexbox"] {
   width: 100%;
   top: 60px;
   position: relative; }
 
-/* line 122, ../../src/scss/styles.scss */
+/* line 123, ../../src/scss/styles.scss */
 img[alt^="Project:"] {
   width: 350px;
   display: block;
   margin: 15px 0; }
 
-/* line 130, ../../src/scss/styles.scss */
+/* line 131, ../../src/scss/styles.scss */
 .projects.details > div {
   top: -20px; }
-/* line 133, ../../src/scss/styles.scss */
+/* line 134, ../../src/scss/styles.scss */
 .projects.details h2 {
   margin-bottom: 0;
   font-weight: bolder; }
-/* line 137, ../../src/scss/styles.scss */
+/* line 138, ../../src/scss/styles.scss */
 .projects.details .tags {
   margin: 10px 40px 30px;
   float: left; }
-  /* line 140, ../../src/scss/styles.scss */
+  /* line 141, ../../src/scss/styles.scss */
   .projects.details .tags span {
     cursor: pointer;
     background-color: #5bc0de;
@@ -286,27 +286,27 @@ img[alt^="Project:"] {
     border-radius: 5px;
     float: left;
     display: block; }
-  /* line 154, ../../src/scss/styles.scss */
+  /* line 155, ../../src/scss/styles.scss */
   .projects.details .tags span:hover {
     background-color: #000; }
-/* line 159, ../../src/scss/styles.scss */
+/* line 160, ../../src/scss/styles.scss */
 .projects.details p {
   display: block;
   clear: both;
   margin: 0; }
-  /* line 163, ../../src/scss/styles.scss */
+  /* line 164, ../../src/scss/styles.scss */
   .projects.details p.link {
     font-weight: bold; }
-  /* line 166, ../../src/scss/styles.scss */
+  /* line 167, ../../src/scss/styles.scss */
   .projects.details p.repo {
     margin: 0 8px;
     font-size: 20px;
     font-style: italic; }
-/* line 172, ../../src/scss/styles.scss */
+/* line 173, ../../src/scss/styles.scss */
 .projects.details .gallery {
   clear: both;
   margin-top: 20px; }
-  /* line 175, ../../src/scss/styles.scss */
+  /* line 176, ../../src/scss/styles.scss */
   .projects.details .gallery img {
     width: 100px;
     transition: all 0.2s ease-in;
@@ -315,52 +315,52 @@ img[alt^="Project:"] {
     -webkit-box-shadow: 10px 10px 41px -3px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 10px 41px -3px rgba(0, 0, 0, 0.75);
     box-shadow: 10px 10px 41px -3px rgba(0, 0, 0, 0.75); }
-  /* line 184, ../../src/scss/styles.scss */
+  /* line 185, ../../src/scss/styles.scss */
   .projects.details .gallery img:hover {
     transform: scale(2); }
 
-/* line 192, ../../src/scss/styles.scss */
+/* line 193, ../../src/scss/styles.scss */
 .clear-ideas-gruntfile.smallcode ul ul li code {
   font-size: 16px; }
-/* line 193, ../../src/scss/styles.scss */
+/* line 194, ../../src/scss/styles.scss */
 .clear-ideas-gruntfile.smallcode pre {
   margin-top: 20px;
   margin-left: 100px; }
-  /* line 196, ../../src/scss/styles.scss */
+  /* line 197, ../../src/scss/styles.scss */
   .clear-ideas-gruntfile.smallcode pre code:before {
     margin: 0; }
 
-/* line 201, ../../src/scss/styles.scss */
+/* line 202, ../../src/scss/styles.scss */
 #contents h2 {
   margin-bottom: 45px; }
-/* line 202, ../../src/scss/styles.scss */
+/* line 203, ../../src/scss/styles.scss */
 #contents .icon-keyboard:before, #contents .icon-laptop:before {
   margin-left: 52px;
   margin-right: -15px; }
 
-/* line 208, ../../src/scss/styles.scss */
+/* line 209, ../../src/scss/styles.scss */
 .slide h2 {
   font-size: 40px;
   margin-bottom: 20px; }
 
-/* line 213, ../../src/scss/styles.scss */
+/* line 214, ../../src/scss/styles.scss */
 [class^="icon-"] {
   font-family: "Open Sans",sans-serif; }
-  /* line 215, ../../src/scss/styles.scss */
+  /* line 216, ../../src/scss/styles.scss */
   [class^="icon-"]:before {
     font-family: FontAwesome; }
 
-/* line 222, ../../src/scss/styles.scss */
+/* line 223, ../../src/scss/styles.scss */
 .not-alone ul ul {
   margin-top: 10px;
   margin-left: 30px; }
-  /* line 225, ../../src/scss/styles.scss */
+  /* line 226, ../../src/scss/styles.scss */
   .not-alone ul ul li {
     position: relative;
     margin-left: -60px;
     margin-bottom: 10px; }
 
-/* line 234, ../../src/scss/styles.scss */
+/* line 235, ../../src/scss/styles.scss */
 .devicons {
   width: 30px;
   height: 30px;
@@ -369,56 +369,56 @@ img[alt^="Project:"] {
   margin-left: -45px;
   padding-left: 10px;
   position: relative; }
-  /* line 235, ../../src/scss/styles.scss */
+  /* line 236, ../../src/scss/styles.scss */
   .devicons.devicons-java {
     top: 6px; }
-  /* line 238, ../../src/scss/styles.scss */
+  /* line 239, ../../src/scss/styles.scss */
   .devicons.devicons-php {
     top: 10px; }
-  /* line 241, ../../src/scss/styles.scss */
+  /* line 242, ../../src/scss/styles.scss */
   .devicons.devicons-python {
     top: 10px; }
-  /* line 251, ../../src/scss/styles.scss */
+  /* line 252, ../../src/scss/styles.scss */
   .devicons:before {
     margin-right: 20px; }
 
-/* line 256, ../../src/scss/styles.scss */
+/* line 257, ../../src/scss/styles.scss */
 a[class|=icon] {
   font-size: 1.2em;
   background: none;
   text-decoration: none;
   width: auto !important; }
-  /* line 261, ../../src/scss/styles.scss */
+  /* line 262, ../../src/scss/styles.scss */
   a[class|=icon]:before {
     margin-right: 10px; }
 
-/* line 265, ../../src/scss/styles.scss */
+/* line 266, ../../src/scss/styles.scss */
 .small ol, .small ul {
   font-size: .7em; }
 
-/* line 271, ../../src/scss/styles.scss */
+/* line 272, ../../src/scss/styles.scss */
 .no-bullet-list.slide ul {
   margin-bottom: 50px; }
-  /* line 273, ../../src/scss/styles.scss */
+  /* line 274, ../../src/scss/styles.scss */
   .no-bullet-list.slide ul > li:before {
     content: ''; }
-/* line 278, ../../src/scss/styles.scss */
+/* line 279, ../../src/scss/styles.scss */
 .no-bullet-list.slide.resources ul {
   margin-left: -50px; }
-/* line 281, ../../src/scss/styles.scss */
+/* line 282, ../../src/scss/styles.scss */
 .no-bullet-list.slide.resources a {
   margin-left: -10px; }
-/* line 282, ../../src/scss/styles.scss */
+/* line 283, ../../src/scss/styles.scss */
 .no-bullet-list.slide.resources span {
   margin-left: 60px; }
 
-/* line 288, ../../src/scss/styles.scss */
+/* line 289, ../../src/scss/styles.scss */
 .section h1 {
   margin-top: 100px;
   font-size: 4em;
   text-align: center; }
 
-/* line 296, ../../src/scss/styles.scss */
+/* line 297, ../../src/scss/styles.scss */
 h6 {
   color: #ccc;
   position: absolute;
@@ -428,7 +428,7 @@ h6 {
 @font-face {
   font-family: MOHAVE;
   src: url("Mohave.otf") format("opentype"); }
-/* line 308, ../../src/scss/styles.scss */
+/* line 309, ../../src/scss/styles.scss */
 .coverSession, #MainCover {
   /*img {
   	position: absolute;
@@ -436,25 +436,25 @@ h6 {
   	left: 100px;
   }
   */ }
-  /* line 309, ../../src/scss/styles.scss */
+  /* line 310, ../../src/scss/styles.scss */
   .coverSession, #MainCover {
     background: url("../img/skylab-coders-logo.png") no-repeat scroll right 310px top 390px #f0f0f0;
     background-size: 30%; }
-  /* line 315, ../../src/scss/styles.scss */
+  /* line 316, ../../src/scss/styles.scss */
   .coverSession > div, #MainCover > div {
     top: 0; }
-  /* line 324, ../../src/scss/styles.scss */
+  /* line 325, ../../src/scss/styles.scss */
   .coverSession h2, .coverSession h3, .coverSession h4, .coverSession ul li, #MainCover h2, #MainCover h3, #MainCover h4, #MainCover ul li {
     color: #453015;
     font-family: "MOHAVE",Helvetica,Arial,sans-serif; }
-  /* line 328, ../../src/scss/styles.scss */
+  /* line 329, ../../src/scss/styles.scss */
   .coverSession h2, #MainCover h2 {
     position: absolute;
     top: 180px;
     left: 410px;
     font-size: 2.7em;
     font-weight: bolder; }
-  /* line 335, ../../src/scss/styles.scss */
+  /* line 336, ../../src/scss/styles.scss */
   .coverSession .logos, #MainCover .logos {
     position: absolute;
     top: 0;
@@ -465,15 +465,15 @@ h6 {
     left: 0;
     height: 100%;
     width: 31%; }
-    /* line 346, ../../src/scss/styles.scss */
+    /* line 347, ../../src/scss/styles.scss */
     .coverSession .logos > .box, #MainCover .logos > .box {
       position: absolute;
       top: 210px;
       left: 55px; }
-    /* line 351, ../../src/scss/styles.scss */
+    /* line 352, ../../src/scss/styles.scss */
     .coverSession .logos img, #MainCover .logos img {
       margin: 10px; }
-  /* line 355, ../../src/scss/styles.scss */
+  /* line 356, ../../src/scss/styles.scss */
   .coverSession h3, .coverSession h4, #MainCover h3, #MainCover h4 {
     position: absolute;
     top: 320px;
@@ -481,11 +481,11 @@ h6 {
     font-size: 1.7em;
     line-height: 39px;
     text-align: center; }
-    /* line 362, ../../src/scss/styles.scss */
+    /* line 363, ../../src/scss/styles.scss */
     .coverSession h3 strong, .coverSession h4 strong, #MainCover h3 strong, #MainCover h4 strong {
       font-size: 1.5em; }
 
-/* line 370, ../../src/scss/styles.scss */
+/* line 371, ../../src/scss/styles.scss */
 #MainCover ul {
   list-style-type: none;
   position: absolute;
@@ -499,89 +499,101 @@ h6 {
   padding: 50px;
   padding-top: 50px;
   border-right: 1px solid #bbb; }
-  /* line 383, ../../src/scss/styles.scss */
+  /* line 384, ../../src/scss/styles.scss */
   #MainCover ul li {
     margin-bottom: 10px;
     margin-bottom: 10px;
     font-size: 1.5em;
     line-height: 40px; }
 
-/* line 392, ../../src/scss/styles.scss */
+/* line 393, ../../src/scss/styles.scss */
 .list-contents > div {
   width: 940px; }
-/* line 395, ../../src/scss/styles.scss */
+/* line 396, ../../src/scss/styles.scss */
 .list-contents ul {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   height: 375px;
   width: 70%; }
-  /* line 401, ../../src/scss/styles.scss */
+  /* line 402, ../../src/scss/styles.scss */
   .list-contents ul li {
     width: 49%;
     font-size: 35px !important; }
 
-/* line 409, ../../src/scss/styles.scss */
+/* line 410, ../../src/scss/styles.scss */
 .slide.sass {
   border-left: 10px solid #c6538c; }
 
-/* line 413, ../../src/scss/styles.scss */
+/* line 414, ../../src/scss/styles.scss */
 .slide.mongo {
   border-left: 10px solid #449945; }
 
-/* line 417, ../../src/scss/styles.scss */
+/* line 418, ../../src/scss/styles.scss */
 .slide.express {
   border-left: 10px solid #30a2ff; }
 
-/* line 421, ../../src/scss/styles.scss */
+/* line 422, ../../src/scss/styles.scss */
 .slide.node {
   border-left: 10px solid #8cc84b; }
 
-/* line 425, ../../src/scss/styles.scss */
+/* line 426, ../../src/scss/styles.scss */
 .slide.bootstrap {
   border-left: 10px solid #5d4384; }
 
-/* line 429, ../../src/scss/styles.scss */
+/* line 430, ../../src/scss/styles.scss */
 .slide.d3 {
   border-left: 10px solid #f99d3e; }
 
-/* line 433, ../../src/scss/styles.scss */
+/* line 434, ../../src/scss/styles.scss */
 .slide.css3 {
   border-left: 10px solid #138dce; }
 
-/* line 437, ../../src/scss/styles.scss */
+/* line 438, ../../src/scss/styles.scss */
 .slide.html5 {
   border-left: 10px solid #f16529; }
 
-/* line 441, ../../src/scss/styles.scss */
+/* line 442, ../../src/scss/styles.scss */
 .slide.ux {
   border-left: 10px solid #CB0000; }
-  /* line 443, ../../src/scss/styles.scss */
+  /* line 444, ../../src/scss/styles.scss */
   .slide.ux img[alt="lean ux"] {
     width: 690px;
     left: 190px;
     position: absolute;
     top: 70px; }
-  /* line 449, ../../src/scss/styles.scss */
+  /* line 450, ../../src/scss/styles.scss */
   .slide.ux img[alt="mvp"] {
     width: 570px;
     left: 230px;
     position: absolute;
     top: 80px; }
 
-/* line 458, ../../src/scss/styles.scss */
+/* line 459, ../../src/scss/styles.scss */
 .slide.angular {
   border-left: 10px solid #e42839; }
 
 /* line 463, ../../src/scss/styles.scss */
+.slide.react {
+  border-left: 10px solid #61dafb; }
+  /* line 465, ../../src/scss/styles.scss */
+  .slide.react.image.jsx img {
+    width: 790px;
+    margin: -20px 0 0 0px; }
+  /* line 470, ../../src/scss/styles.scss */
+  .slide.react.image.example img {
+    width: 710px;
+    margin: -19px 0 0 60px; }
+
+/* line 479, ../../src/scss/styles.scss */
 .slide.html5.kata p, .slide.html5.kata table, .slide.html5.kata ul {
   font-size: 18px;
   padding: 0;
   display: inline-block; }
-/* line 468, ../../src/scss/styles.scss */
+/* line 484, ../../src/scss/styles.scss */
 .slide.html5.kata p {
   margin: 0 0 20px; }
-/* line 470, ../../src/scss/styles.scss */
+/* line 486, ../../src/scss/styles.scss */
 .slide.html5.kata ul li {
   width: 45%;
   padding: 8px 10px;
@@ -590,64 +602,64 @@ h6 {
   line-height: 17px;
   clear: right; }
 
-/* line 476, ../../src/scss/styles.scss */
+/* line 492, ../../src/scss/styles.scss */
 .slide.git {
   border-left: 10px solid #9cdaf1; }
-  /* line 478, ../../src/scss/styles.scss */
+  /* line 494, ../../src/scss/styles.scss */
   .slide.git.theory {
     border: 10px solid #9cdaf1; }
-  /* line 481, ../../src/scss/styles.scss */
+  /* line 497, ../../src/scss/styles.scss */
   .slide.git .block-icons {
     display: inline-block;
     margin-left: 100px; }
-  /* line 486, ../../src/scss/styles.scss */
+  /* line 502, ../../src/scss/styles.scss */
   .slide.git.install [class^="icon-"] {
     margin: 0 15px !important; }
-  /* line 489, ../../src/scss/styles.scss */
+  /* line 505, ../../src/scss/styles.scss */
   .slide.git.install [class="icon-tasks"] {
     margin-left: 60px !important; }
-  /* line 492, ../../src/scss/styles.scss */
+  /* line 508, ../../src/scss/styles.scss */
   .slide.git.image.workflow img {
     width: 700px;
     margin: 20px 0; }
-  /* line 496, ../../src/scss/styles.scss */
+  /* line 512, ../../src/scss/styles.scss */
   .slide.git.image.remote img {
     width: 540px;
     margin: 0 100px; }
-  /* line 502, ../../src/scss/styles.scss */
+  /* line 518, ../../src/scss/styles.scss */
   .slide.git.setup [class^="icon-"] {
     margin: 0 10px 0 0 !important; }
 
-/* line 508, ../../src/scss/styles.scss */
+/* line 524, ../../src/scss/styles.scss */
 .general ul {
   margin-left: -60px; }
-  /* line 510, ../../src/scss/styles.scss */
+  /* line 526, ../../src/scss/styles.scss */
   .general ul li {
     text-indent: 0;
     font-size: 25px;
     line-height: 1.8em; }
-    /* line 514, ../../src/scss/styles.scss */
+    /* line 530, ../../src/scss/styles.scss */
     .general ul li:before {
       content: none; }
-    /* line 515, ../../src/scss/styles.scss */
+    /* line 531, ../../src/scss/styles.scss */
     .general ul li span {
       padding: 0 0 0 10px; }
-    /* line 516, ../../src/scss/styles.scss */
+    /* line 532, ../../src/scss/styles.scss */
     .general ul li [class^="icon-"]:before {
       margin-right: 20px; }
 
-/* line 521, ../../src/scss/styles.scss */
+/* line 537, ../../src/scss/styles.scss */
 .slide.projects {
   border-left: 10px solid #323330; }
 
-/* line 525, ../../src/scss/styles.scss */
+/* line 541, ../../src/scss/styles.scss */
 .slide.javascript {
   border-left: 10px solid #feda3e; }
-  /* line 527, ../../src/scss/styles.scss */
+  /* line 543, ../../src/scss/styles.scss */
   .slide.javascript.theory {
     border: 10px solid #feda3e; }
 
-/* line 532, ../../src/scss/styles.scss */
+/* line 548, ../../src/scss/styles.scss */
 .slide.jquery {
   border-left: 10px solid #0769AD; }
 
@@ -671,27 +683,27 @@ h6 {
 }
 
 */
-/* line 558, ../../src/scss/styles.scss */
+/* line 574, ../../src/scss/styles.scss */
 .slide.es2015 {
   border-left: 10px solid #323330; }
-  /* line 561, ../../src/scss/styles.scss */
+  /* line 577, ../../src/scss/styles.scss */
   .slide.es2015.history ul li {
     line-height: 33px;
     font-size: 20px; }
-  /* line 566, ../../src/scss/styles.scss */
+  /* line 582, ../../src/scss/styles.scss */
   .slide.es2015.resources ul li {
     line-height: 35px;
     font-size: 22px;
     margin: 10px 0; }
-  /* line 571, ../../src/scss/styles.scss */
+  /* line 587, ../../src/scss/styles.scss */
   .slide.es2015.resources pre {
     margin-top: 10px; }
 
-/* line 576, ../../src/scss/styles.scss */
+/* line 592, ../../src/scss/styles.scss */
 .slide.architecture {
   border-left: 10px solid #8266B2; }
 
-/* line 581, ../../src/scss/styles.scss */
+/* line 597, ../../src/scss/styles.scss */
 .coverSession {
   /*
   	&.jquery {
@@ -703,317 +715,335 @@ h6 {
   		//h2 { color: #FFF; top:250px; font-size:2.7em;}
   	}
   */ }
-  /* line 583, ../../src/scss/styles.scss */
+  /* line 599, ../../src/scss/styles.scss */
   .coverSession.sass {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #c6538c;
     background-size: 30%; }
-    /* line 588, ../../src/scss/styles.scss */
+    /* line 604, ../../src/scss/styles.scss */
     .coverSession.sass img[alt="sass logo"] {
       width: 240px;
       left: -5px;
       top: 0;
       position: absolute; }
-    /* line 594, ../../src/scss/styles.scss */
+    /* line 610, ../../src/scss/styles.scss */
     .coverSession.sass .box {
       top: 180px;
       left: 70px; }
-    /* line 598, ../../src/scss/styles.scss */
+    /* line 614, ../../src/scss/styles.scss */
     .coverSession.sass h2 {
       color: #FFF; }
-    /* line 601, ../../src/scss/styles.scss */
+    /* line 617, ../../src/scss/styles.scss */
     .coverSession.sass h3 {
       top: 410px;
       left: 53px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 612, ../../src/scss/styles.scss */
+  /* line 628, ../../src/scss/styles.scss */
   .coverSession.es2015 {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #323330;
     background-size: 30%; }
-    /* line 617, ../../src/scss/styles.scss */
+    /* line 633, ../../src/scss/styles.scss */
     .coverSession.es2015 h2 {
       color: #F5DA55; }
-    /* line 618, ../../src/scss/styles.scss */
+    /* line 634, ../../src/scss/styles.scss */
     .coverSession.es2015 img[alt$="es2015 Logo"] {
       width: 210px;
       margin: -20px 48px;
       float: left; }
-    /* line 623, ../../src/scss/styles.scss */
+    /* line 639, ../../src/scss/styles.scss */
     .coverSession.es2015 .box {
       top: 220px;
       left: 10px; }
-    /* line 624, ../../src/scss/styles.scss */
+    /* line 640, ../../src/scss/styles.scss */
     .coverSession.es2015 h3 {
       top: 400px; }
-    /* line 625, ../../src/scss/styles.scss */
+    /* line 641, ../../src/scss/styles.scss */
     .coverSession.es2015 h4 {
       top: 460px; }
-    /* line 626, ../../src/scss/styles.scss */
+    /* line 642, ../../src/scss/styles.scss */
     .coverSession.es2015 h3 {
       top: 460px;
       left: 50px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 636, ../../src/scss/styles.scss */
+  /* line 652, ../../src/scss/styles.scss */
   .coverSession.mongo {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #449945;
     background-size: 30%; }
-    /* line 641, ../../src/scss/styles.scss */
+    /* line 657, ../../src/scss/styles.scss */
     .coverSession.mongo img[alt="Mongo Logo"] {
       width: 210px;
       left: -20px;
       top: 0px;
       position: absolute; }
-    /* line 647, ../../src/scss/styles.scss */
+    /* line 663, ../../src/scss/styles.scss */
     .coverSession.mongo .box {
       top: 180px;
       left: 70px; }
-    /* line 651, ../../src/scss/styles.scss */
+    /* line 667, ../../src/scss/styles.scss */
     .coverSession.mongo h2 {
       color: #FFF; }
-    /* line 654, ../../src/scss/styles.scss */
+    /* line 670, ../../src/scss/styles.scss */
     .coverSession.mongo h3 {
       top: 430px;
       left: 50px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 663, ../../src/scss/styles.scss */
+  /* line 679, ../../src/scss/styles.scss */
   .coverSession.express {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #30a2ff;
     background-size: 30%; }
-    /* line 668, ../../src/scss/styles.scss */
+    /* line 684, ../../src/scss/styles.scss */
     .coverSession.express img[alt="Express Logo"] {
       width: 350px;
       left: -80px;
       top: 50px;
       position: absolute; }
-    /* line 674, ../../src/scss/styles.scss */
+    /* line 690, ../../src/scss/styles.scss */
     .coverSession.express .box {
       top: 180px;
       left: 70px; }
-    /* line 678, ../../src/scss/styles.scss */
+    /* line 694, ../../src/scss/styles.scss */
     .coverSession.express h2 {
       color: #FFF; }
-    /* line 681, ../../src/scss/styles.scss */
+    /* line 697, ../../src/scss/styles.scss */
     .coverSession.express h3 {
       top: 360px;
       left: 50px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 690, ../../src/scss/styles.scss */
+  /* line 706, ../../src/scss/styles.scss */
   .coverSession.node {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #8cc84b;
     background-size: 30%; }
-    /* line 695, ../../src/scss/styles.scss */
+    /* line 711, ../../src/scss/styles.scss */
     .coverSession.node img[alt="Node Logo"] {
       width: 160px;
       left: 10px;
       top: 0;
       position: absolute; }
-    /* line 701, ../../src/scss/styles.scss */
+    /* line 717, ../../src/scss/styles.scss */
     .coverSession.node .box {
       top: 180px;
       left: 70px; }
-    /* line 705, ../../src/scss/styles.scss */
+    /* line 721, ../../src/scss/styles.scss */
     .coverSession.node h2 {
       color: #FFF; }
-    /* line 708, ../../src/scss/styles.scss */
+    /* line 724, ../../src/scss/styles.scss */
     .coverSession.node h3 {
       top: 410px;
       left: 53px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 719, ../../src/scss/styles.scss */
+  /* line 735, ../../src/scss/styles.scss */
   .coverSession.projects {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #323330;
     background-size: 30%; }
-    /* line 725, ../../src/scss/styles.scss */
+    /* line 741, ../../src/scss/styles.scss */
     .coverSession.projects img[alt="Projects Logo"] {
       width: 230px;
       left: -20px;
       top: -30px;
       position: absolute; }
-    /* line 731, ../../src/scss/styles.scss */
+    /* line 747, ../../src/scss/styles.scss */
     .coverSession.projects .box {
       top: 180px;
       left: 70px; }
-    /* line 735, ../../src/scss/styles.scss */
+    /* line 751, ../../src/scss/styles.scss */
     .coverSession.projects h2 {
       color: #FFF; }
-    /* line 738, ../../src/scss/styles.scss */
+    /* line 754, ../../src/scss/styles.scss */
     .coverSession.projects h3 {
       top: 420px;
       left: 70px;
       width: 240px;
       text-align: center;
       line-height: 51px; }
-  /* line 748, ../../src/scss/styles.scss */
+  /* line 764, ../../src/scss/styles.scss */
   .coverSession.angular {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #e42839;
     background-size: 30%; }
-    /* line 752, ../../src/scss/styles.scss */
+    /* line 768, ../../src/scss/styles.scss */
     .coverSession.angular img[alt="Angular Logo"] {
       width: 280px;
       left: -40px;
       top: -55px;
       position: absolute; }
-    /* line 758, ../../src/scss/styles.scss */
+    /* line 774, ../../src/scss/styles.scss */
     .coverSession.angular .box {
       top: 180px;
       left: 70px; }
-    /* line 762, ../../src/scss/styles.scss */
+    /* line 778, ../../src/scss/styles.scss */
     .coverSession.angular h3 {
       top: 430px;
       left: 90px; }
-  /* line 769, ../../src/scss/styles.scss */
+  /* line 784, ../../src/scss/styles.scss */
+  .coverSession.react {
+    background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #61dafb;
+    background-size: 30%; }
+    /* line 788, ../../src/scss/styles.scss */
+    .coverSession.react img[alt="React Logo"] {
+      width: 250px;
+      left: -30px;
+      top: -55px;
+      position: absolute; }
+    /* line 795, ../../src/scss/styles.scss */
+    .coverSession.react .box {
+      top: 180px;
+      left: 70px; }
+    /* line 799, ../../src/scss/styles.scss */
+    .coverSession.react h3 {
+      top: 430px;
+      left: 110px; }
+  /* line 806, ../../src/scss/styles.scss */
   .coverSession.jquery {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #0769AD;
     background-size: 30%; }
-    /* line 773, ../../src/scss/styles.scss */
+    /* line 810, ../../src/scss/styles.scss */
     .coverSession.jquery img[alt="jQuery Logo"] {
       width: 200px;
       left: 130px;
       top: -25px; }
-    /* line 778, ../../src/scss/styles.scss */
+    /* line 815, ../../src/scss/styles.scss */
     .coverSession.jquery .box {
       top: 180px;
       left: 70px; }
-    /* line 782, ../../src/scss/styles.scss */
+    /* line 819, ../../src/scss/styles.scss */
     .coverSession.jquery h3 {
       top: 380px;
       left: 100px; }
-  /* line 788, ../../src/scss/styles.scss */
+  /* line 825, ../../src/scss/styles.scss */
   .coverSession.d3 {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #f99d3e;
     background-size: 30%; }
-    /* line 792, ../../src/scss/styles.scss */
+    /* line 829, ../../src/scss/styles.scss */
     .coverSession.d3 img[alt="D3 Logo"] {
       width: 200px;
       left: 130px;
       top: -25px; }
-    /* line 797, ../../src/scss/styles.scss */
+    /* line 834, ../../src/scss/styles.scss */
     .coverSession.d3 .box {
       top: 180px;
       left: 70px; }
-    /* line 801, ../../src/scss/styles.scss */
+    /* line 838, ../../src/scss/styles.scss */
     .coverSession.d3 h3 {
       top: 430px;
       left: 160px; }
-  /* line 808, ../../src/scss/styles.scss */
+  /* line 845, ../../src/scss/styles.scss */
   .coverSession.bootstrap {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #5d4384;
     background-size: 30%; }
-    /* line 812, ../../src/scss/styles.scss */
+    /* line 849, ../../src/scss/styles.scss */
     .coverSession.bootstrap img[alt="bootstrap logo"] {
       width: 200px;
       left: 130px;
       top: -25px; }
-    /* line 817, ../../src/scss/styles.scss */
+    /* line 854, ../../src/scss/styles.scss */
     .coverSession.bootstrap .box {
       top: 180px;
       left: 70px; }
-    /* line 821, ../../src/scss/styles.scss */
+    /* line 858, ../../src/scss/styles.scss */
     .coverSession.bootstrap h2 {
       color: #eee; }
-    /* line 824, ../../src/scss/styles.scss */
+    /* line 861, ../../src/scss/styles.scss */
     .coverSession.bootstrap h3 {
       top: 430px;
       left: 70px; }
-  /* line 831, ../../src/scss/styles.scss */
+  /* line 868, ../../src/scss/styles.scss */
   .coverSession.ux {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #CB0000;
     background-size: 30%; }
-    /* line 835, ../../src/scss/styles.scss */
+    /* line 872, ../../src/scss/styles.scss */
     .coverSession.ux img[alt="ux logo"], .coverSession.ux img[alt="mockups logo"] {
       width: 130px;
       position: absolute; }
-    /* line 839, ../../src/scss/styles.scss */
+    /* line 876, ../../src/scss/styles.scss */
     .coverSession.ux img[alt="mockups logo"] {
       left: 130px;
       top: -25px; }
-    /* line 844, ../../src/scss/styles.scss */
+    /* line 881, ../../src/scss/styles.scss */
     .coverSession.ux h2 {
       color: #eee; }
-    /* line 848, ../../src/scss/styles.scss */
+    /* line 885, ../../src/scss/styles.scss */
     .coverSession.ux .box {
       top: 250px;
       left: 50px; }
-    /* line 852, ../../src/scss/styles.scss */
+    /* line 889, ../../src/scss/styles.scss */
     .coverSession.ux h3 {
       top: 390px;
       left: 70px; }
-  /* line 858, ../../src/scss/styles.scss */
+  /* line 895, ../../src/scss/styles.scss */
   .coverSession.css3 {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #138dce;
     background-size: 30%; }
-    /* line 862, ../../src/scss/styles.scss */
+    /* line 899, ../../src/scss/styles.scss */
     .coverSession.css3 img[alt="CSS3 Logo"] {
       width: 220px; }
-    /* line 865, ../../src/scss/styles.scss */
+    /* line 902, ../../src/scss/styles.scss */
     .coverSession.css3 .box {
       top: 150px;
       left: 50px; }
-    /* line 869, ../../src/scss/styles.scss */
+    /* line 906, ../../src/scss/styles.scss */
     .coverSession.css3 h3 {
       top: 440px;
       left: 105px; }
-  /* line 875, ../../src/scss/styles.scss */
+  /* line 912, ../../src/scss/styles.scss */
   .coverSession.html5 {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #f16529;
     background-size: 30%; }
-    /* line 879, ../../src/scss/styles.scss */
+    /* line 916, ../../src/scss/styles.scss */
     .coverSession.html5 img[alt="HTML5 Logo"] {
       width: 210px; }
-    /* line 882, ../../src/scss/styles.scss */
+    /* line 919, ../../src/scss/styles.scss */
     .coverSession.html5 .box {
       top: 160px;
       left: 55px; }
-    /* line 886, ../../src/scss/styles.scss */
+    /* line 923, ../../src/scss/styles.scss */
     .coverSession.html5 h3 {
       top: 440px;
       left: 105px; }
-  /* line 892, ../../src/scss/styles.scss */
+  /* line 929, ../../src/scss/styles.scss */
   .coverSession.git {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #9cdaf1;
     background-size: 30%; }
-    /* line 896, ../../src/scss/styles.scss */
+    /* line 933, ../../src/scss/styles.scss */
     .coverSession.git img[alt$="logo"] {
       height: 100px;
       float: left; }
-    /* line 900, ../../src/scss/styles.scss */
+    /* line 937, ../../src/scss/styles.scss */
     .coverSession.git img[alt="markdown logo"] {
       width: 110px;
       height: inherit;
       margin: 22px; }
-    /* line 905, ../../src/scss/styles.scss */
+    /* line 942, ../../src/scss/styles.scss */
     .coverSession.git .box {
       top: 150px; }
-    /* line 908, ../../src/scss/styles.scss */
+    /* line 945, ../../src/scss/styles.scss */
     .coverSession.git h3 {
       top: 440px;
       left: 75px; }
-  /* line 917, ../../src/scss/styles.scss */
+  /* line 954, ../../src/scss/styles.scss */
   .coverSession.javascript {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px #feda3e;
     background-size: 30%; }
-    /* line 922, ../../src/scss/styles.scss */
+    /* line 959, ../../src/scss/styles.scss */
     .coverSession.javascript img[alt="Javascript Logo"] {
       margin: -20px 48px;
       height: 150px; }
-    /* line 926, ../../src/scss/styles.scss */
+    /* line 963, ../../src/scss/styles.scss */
     .coverSession.javascript .box {
       top: 225px;
       left: 50px; }
-    /* line 930, ../../src/scss/styles.scss */
+    /* line 967, ../../src/scss/styles.scss */
     .coverSession.javascript h3 {
       top: 390px;
       left: 55px; }
-  /* line 946, ../../src/scss/styles.scss */
+  /* line 983, ../../src/scss/styles.scss */
   .coverSession.workflow {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 180px top 400px #F37D0B;
     /*   ![npm Logo](img/workflow/npm.svg)
@@ -1022,85 +1052,85 @@ h6 {
     	![yeoman Logo](img/workflow/yeoman.png)
     <d
      */ }
-    /* line 955, ../../src/scss/styles.scss */
+    /* line 992, ../../src/scss/styles.scss */
     .coverSession.workflow img[alt$="logo"] {
       /* margin:-20px 48px; */
       height: 100px;
       float: left; }
-    /* line 959, ../../src/scss/styles.scss */
+    /* line 996, ../../src/scss/styles.scss */
     .coverSession.workflow .box {
       top: 150px; }
-    /* line 960, ../../src/scss/styles.scss */
+    /* line 997, ../../src/scss/styles.scss */
     .coverSession.workflow h3 {
       top: 420px; }
-  /* line 966, ../../src/scss/styles.scss */
+  /* line 1003, ../../src/scss/styles.scss */
   .coverSession.architecture {
     background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 180px top 400px #8266B2; }
-    /* line 969, ../../src/scss/styles.scss */
+    /* line 1006, ../../src/scss/styles.scss */
     .coverSession.architecture img[alt$="logo"] {
       margin: 0; }
-    /* line 970, ../../src/scss/styles.scss */
+    /* line 1007, ../../src/scss/styles.scss */
     .coverSession.architecture img[alt="es2015 logo"] {
       width: 250px; }
-    /* line 971, ../../src/scss/styles.scss */
+    /* line 1008, ../../src/scss/styles.scss */
     .coverSession.architecture img[alt="babel logo"] {
       width: 185px; }
-    /* line 972, ../../src/scss/styles.scss */
+    /* line 1009, ../../src/scss/styles.scss */
     .coverSession.architecture img[alt="webpack logo"] {
       width: 100px; }
-    /* line 973, ../../src/scss/styles.scss */
+    /* line 1010, ../../src/scss/styles.scss */
     .coverSession.architecture .box {
       top: 160px;
       left: 30px;
       width: 300px;
       text-align: center; }
-    /* line 979, ../../src/scss/styles.scss */
+    /* line 1016, ../../src/scss/styles.scss */
     .coverSession.architecture h3 {
       top: 400px; }
-    /* line 980, ../../src/scss/styles.scss */
+    /* line 1017, ../../src/scss/styles.scss */
     .coverSession.architecture h4 {
       top: 460px; }
 
-/* line 988, ../../src/scss/styles.scss */
+/* line 1025, ../../src/scss/styles.scss */
 .general.contents ul li {
   font-size: 23px; }
-/* line 990, ../../src/scss/styles.scss */
+/* line 1027, ../../src/scss/styles.scss */
 .general ol {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap; }
-  /* line 994, ../../src/scss/styles.scss */
+  /* line 1031, ../../src/scss/styles.scss */
   .general ol li {
     display: flex; }
 
-/* line 1000, ../../src/scss/styles.scss */
+/* line 1037, ../../src/scss/styles.scss */
 .what blockquote {
   margin-top: 1.2em;
   font-size: 3em; }
 
-/* line 1007, ../../src/scss/styles.scss */
+/* line 1044, ../../src/scss/styles.scss */
 .what2 blockquote {
   margin-top: 2em;
   font-size: 2em; }
 
-/* line 1014, ../../src/scss/styles.scss */
+/* line 1051, ../../src/scss/styles.scss */
 .what3 blockquote {
   margin-top: 2em;
   font-size: 2em; }
-  /* line 1015, ../../src/scss/styles.scss */
+  /* line 1052, ../../src/scss/styles.scss */
   .what3 blockquote p {
     line-height: 1.5em; }
 
-/* line 1023, ../../src/scss/styles.scss */
+/* line 1060, ../../src/scss/styles.scss */
 .two-columns-list {
   /* The maximum number of items a single column can handle.  If a column has more items than the maximum defined here, some items won't display. */ }
-  /* line 1029, ../../src/scss/styles.scss */
+  /* line 1066, ../../src/scss/styles.scss */
   .two-columns-list ol {
     position: relative;
     margin: 0 0 50px;
     padding: 0;
     font-size: 16px; }
-  /* line 1036, ../../src/scss/styles.scss */
+  /* line 1073, ../../src/scss/styles.scss */
   .two-columns-list ol li {
     position: absolute;
     margin: 0;
@@ -1108,107 +1138,107 @@ h6 {
     width: 50%;
     list-style-position: inside;
     line-height: 1.5; }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+2) {
     top: 1.5em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+3) {
     top: 3em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+4) {
     top: 4.5em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+5) {
     top: 6em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+6) {
     top: 7.5em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+7) {
     top: 9em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+8) {
     top: 10.5em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+9) {
     top: 12em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1046, ../../src/scss/styles.scss */
+  /* line 1083, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+10) {
     top: 13.5em;
     /* line height is equal to the absolute position top for all items. will only effect first column because overridden later*/ }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+3):nth-last-child(-n+2) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+4):nth-last-child(-n+3) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+5):nth-last-child(-n+4) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+6):nth-last-child(-n+5) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+7):nth-last-child(-n+6) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+8):nth-last-child(-n+7) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+9):nth-last-child(-n+8) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+10):nth-last-child(-n+9) {
     position: static;
     margin-left: 50%; }
-  /* line 1052, ../../src/scss/styles.scss */
+  /* line 1089, ../../src/scss/styles.scss */
   .two-columns-list ol li:nth-child(n+11):nth-last-child(-n+10) {
     position: static;
     margin-left: 50%; }
 
-/* line 1060, ../../src/scss/styles.scss */
+/* line 1097, ../../src/scss/styles.scss */
 .slide ol, .slide ul {
   margin-bottom: 10px; }
-/* line 1063, ../../src/scss/styles.scss */
+/* line 1100, ../../src/scss/styles.scss */
 .slide p {
   display: inline; }
-/* line 1066, ../../src/scss/styles.scss */
+/* line 1103, ../../src/scss/styles.scss */
 .slide {
   background: url("../img/skylab-coders-logo.png") no-repeat top 25px right 25px #FFF;
   background-size: 20%; }
 
-/* line 1074, ../../src/scss/styles.scss */
+/* line 1111, ../../src/scss/styles.scss */
 .showterm a {
   margin: 0;
   float: right;
   /*    background: none; */ }
 
-/* line 1082, ../../src/scss/styles.scss */
+/* line 1119, ../../src/scss/styles.scss */
 .smallcode h2 {
   margin-bottom: 25px; }
-/* line 1085, ../../src/scss/styles.scss */
+/* line 1122, ../../src/scss/styles.scss */
 .smallcode pre {
   margin-left: 50px; }
-  /* line 1087, ../../src/scss/styles.scss */
+  /* line 1124, ../../src/scss/styles.scss */
   .smallcode pre code {
     line-height: 1.3;
     font-size: 18px; }
-/* line 1093, ../../src/scss/styles.scss */
+/* line 1130, ../../src/scss/styles.scss */
 .smallcode.smaller pre code {
   font-size: 12px; }
 
@@ -1247,7 +1277,7 @@ h6 {
 	-moz-osx-font-smoothing: grayscale;
 }
 */
-/* line 1146, ../../src/scss/styles.scss */
+/* line 1183, ../../src/scss/styles.scss */
 .icon-pixelovers:before {
   font-family: "untitled-font-1" !important;
   font-style: normal !important;
@@ -1286,11 +1316,11 @@ h6 {
 	content: "i";
 }
 */
-/* line 1185, ../../src/scss/styles.scss */
+/* line 1222, ../../src/scss/styles.scss */
 .icon-pixelovers-1:before {
   content: "j"; }
 
-/* line 1189, ../../src/scss/styles.scss */
+/* line 1226, ../../src/scss/styles.scss */
 .fa {
   margin: 0 5px 0 -30px; }
 

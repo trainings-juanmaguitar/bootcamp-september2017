@@ -21,6 +21,7 @@ $color-balsamiq: #CB0000;
 $color-bootstrap: #5d4384;
 $color-d3: #f99d3e;
 $color-angular: #e42839;
+$color-react: #61dafb;
 $color-projects: #323330;
 
 $color-node: #8cc84b;
@@ -459,6 +460,21 @@ h6 {
 	border-left: 10px solid $color-angular;
 }
 
+.slide.react {
+	border-left: 10px solid $color-react;
+	&.image.jsx img {
+		width: 790px;
+    margin: -20px 0 0 0px;
+	}
+
+	&.image.example img {
+		width: 710px;
+    margin: -19px 0 0 60px;
+	}
+
+
+}
+
 .slide.html5.kata {
 	p, table, ul {
 		font-size:18px;
@@ -764,6 +780,27 @@ h6 {
 		left: 90px;
 		}
 	}
+
+		&.react {
+			background: url("../img/skylab-coders-logo-white.png") no-repeat scroll right 310px top 300px  $color-react;
+			background-size: 30%;
+
+			img[alt="React Logo"] {
+				width: 250px;
+				left: -30px;
+				top: -55px;
+				position: absolute;
+			}
+
+			.box {
+				top: 180px;
+				left: 70px;
+			}
+			h3 {
+				top: 430px;
+				left: 110px;
+			}
+		}
 
 
 	&.jquery {

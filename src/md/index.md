@@ -1,5 +1,5 @@
 # Full Stack Web Development Bootcamp
-## Abril2017 - SkylabCoders Academy
+## September2017 - SkylabCoders Academy
 
 by [JuanMa Garrido](#trainer)
 
@@ -8,7 +8,7 @@ by [JuanMa Garrido](#trainer)
 !SLIDE #MainCover no-bullet-list
  
 ## Full Stack Web Development Bootcamp
-### Abril2017
+### September2017
 
 - GIT & GITHUB
 - Javascript
@@ -16,9 +16,9 @@ by [JuanMa Garrido](#trainer)
 - CSS3
 - Bootstrap
 - jQuery
-- Angular
-- Node
 - ES2015
+- React
+- Node
 - Express
 - MongoDB
 
@@ -55,9 +55,9 @@ by [JuanMa Garrido](#trainer)
   <li><span class="icon-calendar-empty"> [CSS3](#css3) </li>
   <li><span class="icon-calendar-empty"> [Bootstrap](#bootstrap)</li>
   <li><span class="icon-calendar-empty"> [jQuery](#jquery)</li>
-  <li><span class="icon-calendar-empty"> [angular.js](#angular)</li>
-  <li><span class="icon-calendar-empty"> [Node](#node)</li>
   <li><span class="icon-calendar-empty"> [ES2015](#es2015)</li>
+  <li><span class="icon-calendar-empty"> [React](#react)</li>
+  <li><span class="icon-calendar-empty"> [Node](#node)</li>
   <li><span class="icon-calendar-empty"> [Express](#express)</li>
   <li><span class="icon-calendar-empty"> [MongoDB](#mongo)</li>
   <li><span class="icon-calendar-empty"> [Projects](#projects)</li>
@@ -1372,6 +1372,49 @@ Do the following exercise: https://github.com/juanmaguitar/exercises-javascript/
 ## Public API's
 
 - [Random User Generator](https://randomuser.me/)
+
+<!-- ######################## REACT ######################## --> 
+
+!SLIDE #react coverSession react
+
+<section class="logos">
+  <div class="box">
+    ![React Logo](img/react-logo.png)
+  <div>
+</section>
+ 
+## Web Development Bootcamp 
+### **React**
+
+!SLIDE react
+
+## Contents
+
+- [React](https://facebook.github.io/react/) [[1]](http://buildwithreact.com/tutorial) | [basic example](http://codepen.io/gaearon/pen/rrpgNB?editors=0010) 
+- [Use React](https://facebook.github.io/react/docs/installation.html) 
+  + First Steps: [HTML](https://facebook.github.io/react/downloads/single-file-example.html)
+  + New apps → [`create-react-app`](https://github.com/facebookincubator/create-react-app)
+  + [Existing apps](https://facebook.github.io/react/docs/installation.html#adding-react-to-an-existing-application)
+- [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) [[1]](http://buildwithreact.com/tutorial/jsx) | [example](https://jsfiddle.net/juanma/jovfwq1n/)
+
+!SLIDE react jsx image
+
+![jsx](img/react-JSX-explanation.png)
+
+!SLIDE react example image
+
+![jsx](img/react-example.png)
+
+!SLIDE react
+
+## Contents
+
+- [Components](https://facebook.github.io/react/docs/components-and-props.html) [[1]](http://buildwithreact.com/tutorial/components) | [example](http://jsbin.com/ceyicizowu/1/embed?js,output)
+- [Events](https://facebook.github.io/react/docs/handling-events.html) [[1]](http://buildwithreact.com/tutorial/events) | [example](http://jsbin.com/yayatucowu/1/embed?js,output)
+- [State](https://facebook.github.io/react/docs/state-and-lifecycle.html) [[1]](http://buildwithreact.com/tutorial/state)
+  - `state` is internal and controlled by the component itself 
+  - `props` are external and controlled by whatever renders the component
+
 
 <!-- ######################## ANGULAR ######################## --> 
 
