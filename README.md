@@ -1,6 +1,6 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-## SkylabCoders Academy - Full Stack Web Development Bootcamp @Abril2017
+## SkylabCoders Academy - Full Stack Web Development Bootcamp @September2017
 
 ## Description ##
 
@@ -16,7 +16,7 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 - Add logic and behaviour (_Javascript_) to sites/apps
 - Daily use of version control tools & services (_Git & GitHub_)
 - Understand and use popular tools to speed up developments (_Bootstrap_, _jQuery_)
-- Use frameworks in the frontend (like _angular.js_) to create and structure webapps
+- Use frameworks in the frontend (like _React_) to create and structure webapps
 - Understand _Web Design_ and _Frontend_ concepts, tools, workflows and architectures.
 
 ## Contents ##
@@ -26,12 +26,12 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 - Basic Tools (Sublime, Git, Github, Markdown, Command Line Tools)
 - **HTML5**
     + Semantic Web
-    + Media (Video & Audio) 
+    + Media (Video & Audio)
     + Forms
 - **CSS3**
     + Basics    
     + Selectors & Specificity
-    + Box Model 
+    + Box Model
     + Layouts, Positioning
     + Responsive Design (Media Queries)
     + Flexbox
@@ -51,7 +51,7 @@ Learn and practice all basic knowledge so the students at the end of the stream 
     + Events
     + Canvas, Forms, ...
 - Useful Libraries for general purposes: **jQuery**.js
-- Useful Frameworks for creating apps: **angular**.js
+- Useful Frameworks for creating apps: **react**.js
 
 ### Backend
 
@@ -62,7 +62,7 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 
 ## Materials ##
 
-You can access to the presentation used in the training at the URL : https://skylabcoders.github.io/bootcamp-abril2017/
+You can access to the presentation used in the training at the URL : https://skylabcoders.github.io/bootcamp-september2017/
 
 ## TO-DO ##
 
