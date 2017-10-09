@@ -2239,6 +2239,7 @@ Do the following katas to assure the understanding of Promise
   + New apps → [`create-react-app`](https://github.com/facebookincubator/create-react-app)
   + [Existing apps](https://facebook.github.io/react/docs/installation.html#adding-react-to-an-existing-application)
 - [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) [[1]](http://buildwithreact.com/tutorial/jsx) | [example](https://jsfiddle.net/juanma/jovfwq1n/)
+  + [JSX In depth](https://reactjs.org/docs/jsx-in-depth.html)
 
 !SLIDE react jsx image
 
@@ -2258,6 +2259,13 @@ Do the following katas to assure the understanding of Promise
   - `state` is internal and controlled by the component itself
   - `props` are external and controlled by whatever renders the component
 
+
+!SLIDE react
+
+## Contents
+
+- [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
+- [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
 
 <!-- ######################## NODE.JS ######################## -->
 
