@@ -2259,6 +2259,12 @@ Do the following katas to assure the understanding of Promise
   - `state` is internal and controlled by the component itself
   - `props` are external and controlled by whatever renders the component
 
+!SLIDE git exercise
+
+## <span class="icon-laptop"></span> React Bootstrap Components
+
+Create the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components](https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components) following the suggested steps
+
 
 !SLIDE react
 
