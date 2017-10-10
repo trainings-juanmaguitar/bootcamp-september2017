@@ -2267,11 +2267,24 @@ Do the following katas to assure the understanding of Promise
   + [Mounting](https://reactjs.org/docs/react-component.html#mounting)
     * [`componentWillMount()`](https://reactjs.org/docs/react-component.html#componentwillmount) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#f5e2)
     * [`componentDidMount()`](https://reactjs.org/docs/react-component.html#componentdidmount) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#9725)
+
+!SLIDE react
+
+## Contents
+
+- Lifecycle Methods
+
   - [Updating](https://reactjs.org/docs/react-component.html#updating)
     - [`componentWillReceiveProps()`](https://reactjs.org/docs/react-component.html#componentwillreceiveprops) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#1d8c)
     - [`shouldComponentUpdate()`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#ccd8)
+    - [`componentWillUpdate()`](https://reactjs.org/docs/react-component.html#componentwillupdate) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#2417)
+    - [`componentDidUpdate()`](https://reactjs.org/docs/react-component.html#componentdidupdate) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#7ea1)
 
+!SLIDE react
 
+## Contents
+
+- Lifecycle Methods
   - [Unmounting](https://reactjs.org/docs/react-component.html#unmounting)
 
 
