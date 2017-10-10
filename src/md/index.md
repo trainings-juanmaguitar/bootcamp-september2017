@@ -2259,14 +2259,30 @@ Do the following katas to assure the understanding of Promise
   - `state` is internal and controlled by the component itself
   - `props` are external and controlled by whatever renders the component
 
-!SLIDE git exercise
+!SLIDE react
+
+## Contents
+
+- [Lifecycle Methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+  + [Mounting](https://reactjs.org/docs/react-component.html#mounting)
+    * [`componentWillMount()`](https://reactjs.org/docs/react-component.html#componentwillmount) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#f5e2)
+    * [`componentDidMount()`](https://reactjs.org/docs/react-component.html#componentdidmount) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#9725)
+  - [Updating](https://reactjs.org/docs/react-component.html#updating)
+    - [`componentWillReceiveProps()`](https://reactjs.org/docs/react-component.html#componentwillreceiveprops) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#1d8c)
+    - [`shouldComponentUpdate()`](https://reactjs.org/docs/react-component.html#shouldcomponentupdate) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#ccd8)
+
+
+  - [Unmounting](https://reactjs.org/docs/react-component.html#unmounting)
+
+
+!SLIDE react exercise
 
 ## <span class="icon-laptop"></span> React Bootstrap Components
 
 Create the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components](https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components) following the suggested steps
 
 
-!SLIDE git exercise
+!SLIDE react exercise
 
 ## <span class="icon-laptop"></span> TODO List
 
@@ -2279,6 +2295,13 @@ Create with REACT the project described at [https://github.com/juanmaguitar/exer
 
 - [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
 - [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
+
+!SLIDE react
+
+## Resources
+
+- [Examples](https://github.com/juanmaguitar/react-examples) [[1]](https://github.com/juanmaguitar/demo-react-basics)
+
 
 <!-- ######################## NODE.JS ######################## -->
 
