@@ -2266,6 +2266,13 @@ Do the following katas to assure the understanding of Promise
 Create the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components](https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components) following the suggested steps
 
 
+!SLIDE git exercise
+
+## <span class="icon-laptop"></span> TODO List
+
+Create with REACT the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list](https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list) following the suggested steps
+
+
 !SLIDE react
 
 ## Contents
