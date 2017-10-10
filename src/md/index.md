@@ -2301,6 +2301,7 @@ Create with REACT the project described at [https://github.com/juanmaguitar/exer
 ## Resources
 
 - [Examples](https://github.com/juanmaguitar/react-examples) [[1]](https://github.com/juanmaguitar/demo-react-basics)
+-
 
 
 <!-- ######################## NODE.JS ######################## -->
