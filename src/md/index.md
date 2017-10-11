@@ -2306,15 +2306,22 @@ Create with REACT the project described at [https://github.com/juanmaguitar/exer
 
 ## Contents
 
-- [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
-- [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
+- [**Presentational & Container Components**](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [[1]](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
+  + [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
+
+- Working w/ Components
+  + [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
+  + [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
 
 !SLIDE react
 
 ## Resources
 
+- [Cheat Sheet](https://reactcheatsheet.com/)  
 - [Examples](https://github.com/juanmaguitar/react-examples) [[1]](https://github.com/juanmaguitar/demo-react-basics)
-
+- [Clear Ideas in React](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
+  + [learnreact.com](https://learnreact.com/)
+- [React patterns](http://reactpatterns.com/)
 
 <!-- ######################## NODE.JS ######################## -->
 
