@@ -2235,9 +2235,8 @@ Do the following katas to assure the understanding of Promise
 
 - [React](https://facebook.github.io/react/) [[1]](http://buildwithreact.com/tutorial) | [basic example](http://codepen.io/gaearon/pen/rrpgNB?editors=0010)
 - [Use React](https://facebook.github.io/react/docs/installation.html)
-  + First Steps: [HTML](https://facebook.github.io/react/downloads/single-file-example.html)
+  + First Steps: [HTML](https://gist.github.com/juanmaguitar/37c2e206b50d749cf7109e7df6e31cbe)
   + New apps → [`create-react-app`](https://github.com/facebookincubator/create-react-app)
-  + [Existing apps](https://facebook.github.io/react/docs/installation.html#adding-react-to-an-existing-application)
 - [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) [[1]](http://buildwithreact.com/tutorial/jsx) | [example](https://jsfiddle.net/juanma/jovfwq1n/)
   + [JSX In depth](https://reactjs.org/docs/jsx-in-depth.html)
 
