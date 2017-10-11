@@ -2262,6 +2262,45 @@ Do the following katas to assure the understanding of Promise
 
 ## Contents
 
+- [`props.chidlren`](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891) [[1]](http://mxstbr.blog/2017/02/react-children-deepdive/)
+
+
+
+!SLIDE react
+
+## Contents
+
+- [**Presentational & Container Components**](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [[1]](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
+  + [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
+
+- Working w/ Components
+  + [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
+  + [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
+
+
+
+
+
+
+
+!SLIDE react exercise
+
+## <span class="icon-laptop"></span> React Bootstrap Components
+
+Create the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components](https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components) following the suggested steps
+
+
+!SLIDE react exercise
+
+## <span class="icon-laptop"></span> TODO List
+
+Create with REACT the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list](https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list) following the suggested steps
+
+
+!SLIDE react
+
+## Contents
+
 - [Lifecycle Methods](https://reactjs.org/docs/react-component.html#the-component-lifecycle) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
   + [Mounting](https://reactjs.org/docs/react-component.html#mounting)
     * [`componentWillMount()`](https://reactjs.org/docs/react-component.html#componentwillmount) [[1]](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1#f5e2)
@@ -2286,32 +2325,6 @@ Do the following katas to assure the understanding of Promise
 - Lifecycle Methods
   - [Unmounting](https://reactjs.org/docs/react-component.html#unmounting)
 
-
-!SLIDE react exercise
-
-## <span class="icon-laptop"></span> React Bootstrap Components
-
-Create the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components](https://github.com/juanmaguitar/exercises-react/tree/master/01-bootstrap-layout-components) following the suggested steps
-
-
-!SLIDE react exercise
-
-## <span class="icon-laptop"></span> TODO List
-
-Create with REACT the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list](https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list) following the suggested steps
-
-
-!SLIDE react
-
-## Contents
-
-- [**Presentational & Container Components**](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [[1]](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
-  + [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
-
-- Working w/ Components
-  + [Communication between components](http://andrewhfarmer.com/component-communication/) [[1]](https://www.ctheu.com/2015/02/12/how-to-communicate-between-react-components/)
-  + [Key React Component Decissions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
-
 !SLIDE react
 
 ## Resources
@@ -2321,6 +2334,7 @@ Create with REACT the project described at [https://github.com/juanmaguitar/exer
 - [Clear Ideas in React](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
   + [learnreact.com](https://learnreact.com/)
 - [React patterns](http://reactpatterns.com/)
+- [Boilerplate](https://www.reactboilerplate.com/)
 
 <!-- ######################## NODE.JS ######################## -->
 
