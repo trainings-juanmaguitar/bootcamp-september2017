@@ -2262,8 +2262,9 @@ Do the following katas to assure the understanding of Promise
 
 ## Contents
 
-- [React Router (web)](https://reacttraining.com/react-router/web/guides/philosophy) [[1]](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [React Router (web)](https://reacttraining.com/react-router/web/guides/philosophy) [[1]](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) [[2]](https://www.sitepoint.com/react-router-v4-complete-guide/)
   + [Example](https://codesandbox.io/s/vVoQVk78)
+  + [Redirect after form submission](https://gist.github.com/verticalgrain/195468e69f2ac88f3d9573d285b09764)
 
 
 !SLIDE react
@@ -2311,8 +2312,13 @@ Create the project described at [https://github.com/juanmaguitar/exercises-react
 
 ## <span class="icon-laptop"></span> TODO List
 
-Create with REACT the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list](https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list) following the suggested steps
+Create with REACT the project described at [https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list](https://github.com/juanmaguitar/exercises-react/tree/master/02-todo-list)
 
+!SLIDE react exercise
+
+## <span class="icon-laptop"></span> Movies App w/ Router
+
+Create with REACT the project suggested at [https://github.com/juanmaguitar/exercises-react/tree/master/03-movies](https://github.com/juanmaguitar/exercises-react/tree/master/03-movies)
 
 !SLIDE react
 
