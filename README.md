@@ -1,10 +1,18 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-## SkylabCoders Academy - Full Stack Web Development Bootcamp @September2017
+## Full Stack Web Development Bootcamp @September2017
 
 ## Description ##
 
-This repository contains the presentation used in the Full Stack Web Development Bootcamp done by [SkylabCoders Academy](http://www.skylabcoders.com/es/) for _11 weeks_ from 18th September to 1st December in 2017.
+This repository contains the presentation used in the Full Stack Web Development Bootcamp (6th promotion) with the syllabus i created for [SkylabCoders Academy](http://www.skylabcoders.com/es/) and imparted for _11 weeks_ from 18th September to 1st December in 2017.
+
+Other training programs created & imparted for Skylab Coders Academy:
+
+- [1st promotion](https://github.com/juanmaguitar/bootcamp-summer2016) (9 weeks, Jul-Sept 2016)
+- [2nd Promotion](https://github.com/SkylabCoders/bootcamp-autumn2016) (9 weeks, Oct-Dec 2016)
+- [3rd Promotion](https://github.com/SkylabCoders/bootcamp-winter2017) (9 weeks, Jan-Mar 2017)
+- [4th Promotion](https://github.com/SkylabCoders/bootcamp-abril2017) (10 weeks, Apr-Jun 2017)
+- [5th Promotion](https://github.com/SkylabCoders/bootcamp-julio2017) (10 weeks, Jul-Sept 2017)
 
 ## Training Goals ##
 
