@@ -4,9 +4,9 @@
 
 ## Description ##
 
-This repository contains the presentation used in the Full Stack Web Development Bootcamp done by [SkylabCoders Academy](http://www.skylabcoders.com/es/) for _10 weeks_ from 10th April to 15nd June in 2017.
+This repository contains the presentation used in the Full Stack Web Development Bootcamp done by [SkylabCoders Academy](http://www.skylabcoders.com/es/) for _11 weeks_ from 18th September to 1st December in 2017.
 
-## Training Goals (Stream 1) ##
+## Training Goals ##
 
 Learn and practice all basic knowledge so the students at the end of the stream are able to:
 
@@ -16,8 +16,14 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 - Add logic and behaviour (_Javascript_) to sites/apps
 - Daily use of version control tools & services (_Git & GitHub_)
 - Understand and use popular tools to speed up developments (_Bootstrap_, _jQuery_)
-- Use frameworks in the frontend (like _React_) to create and structure webapps
+- Use frameworks in the frontend (like _React_) to create and structure SPA's
 - Understand _Web Design_ and _Frontend_ concepts, tools, workflows and architectures.
+- Modern JS (_ES2015, ES2016, ES2017..._)
+- Create Web Servers w/ JS (_Express_) to serve HTML/files
+- Mange I/O system in the server (_Node_)
+- Manage `request` & `response` from the server
+- Create Authentication systems (_Sessions_ & _JWT_)
+- Persist and query data on the server side (_MongoDB_ & _Mongoose_)
 
 ## Contents ##
 
@@ -51,19 +57,64 @@ Learn and practice all basic knowledge so the students at the end of the stream 
     + Events
     + Canvas, Forms, ...
 - Useful Libraries for general purposes: **jQuery**.js
-- Useful Frameworks for creating apps: **react**.js
+    - Selecting Elements
+    - Manipulating Elements
+    - Traversing
+    - `$.each` vs `.each()`
+    - Events 
+- JSON & AJAX
+- **ES2015**
+    - Arrow Functions `=>`
+    - Block Scope `let` y `const`
+    - Template Strings
+    - Object Literals
+    - Destructuring
+    - Default Parameters `=`
+    - Rest & Spread operators `...`
+    - Set & Map
+    - Classes
+    - Modules
+    - Promises
+    - new Array, Strings methods & more... 
+- Useful Frameworks for creating SPA's: **React**.js
+    - JSX
+    - Components
+    - Events
+    - `state` & `props`
+    - React Router
+    - Lifecycle methods
+    - Stateful & Stateless Components
 
 ### Backend
 
-- Node.js
-- ES2015
-- Express
-- MongoDB
+- **Node.js**
+    - Modules w/ CommonJS
+    - npm & `package.json`
+    - Node Modules
+        w/ & w/o `require`
+    - EventEmitter
+    - Streams
+- **Express**
+    - Routing
+    - Middlewares
+    - Template Engines (pug)
+    - `app`, `req` & `res`
+    - cookies & sessions
+    - Restful API
+    - Authentication (Session & JSON Web Token)
+- **MongoDB**
+    - Collections & Documents
+    - Mongo Shell
+    - CRUD Operations
+    - Queries
+    - Projections
+    - Data Modeling
+- **Mongoose**
+    - Schema
+    - Integration w/ Express
+    - User Autentication
+
 
 ## Materials ##
 
 You can access to the presentation used in the training at the URL : https://juanmaguitar.github.io/bootcamp-september2017/
-
-## TO-DO ##
-
-- Fonts & Icons locally
