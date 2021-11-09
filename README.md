@@ -125,4 +125,4 @@ Learn and practice all basic knowledge so the students at the end of the stream 
 
 ## Materials ##
 
-You can access to the presentation used in the training at the URL : https://juanmaguitar.github.io/bootcamp-september2017/
+You can access to the presentation used in the training at the URL : https://trainings-juanmaguitar.github.io/bootcamp-september2017
